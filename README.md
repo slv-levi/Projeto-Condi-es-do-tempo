@@ -6,7 +6,4 @@
 <img src="./src/img/Animação tela Condicoes do clima.gif">
 
 ## 🛠Tecnologias Ultilizadas:
-<img src="./src/img/html.png">
-<img src="./src/img/css.png.png">
-<img src="./src/img/Ts.png.png.png">
-<img src="./src/img/API.png.png.png">
+<img src="./src/img/html.png" width="100px"> <img src="./src/img/css.png.png" width="100px"> <img src="./src/img/Ts.png.png" width="100px"> <img src="./src/img/API.png.png" width="100px">
